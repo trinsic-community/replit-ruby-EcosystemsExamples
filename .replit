@@ -1,0 +1,4 @@
+run = "bundle install"
+
+[nix]
+channel = "unstable"
